@@ -1,5 +1,3 @@
-using System;
-
 namespace EncodingApp;
 
 public partial class EncoderPage : ContentPage
